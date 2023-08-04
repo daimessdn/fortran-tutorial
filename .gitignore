@@ -1,0 +1,7 @@
+# files to be ignored
+*
+
+# file to exclude
+!.gitignore
+!*.f95
+!*.md
